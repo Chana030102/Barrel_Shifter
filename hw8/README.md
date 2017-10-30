@@ -13,4 +13,4 @@ Barrel Shifter files:
 
 Test Benches:
 - test_shifter.v   ==> for barrel shifter
-_ test_decoder.v   ==> for binary to BCD converter
+- test_decoder.v   ==> for binary to BCD converter
